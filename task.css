@@ -1,0 +1,35 @@
+.divider {
+    border-bottom:1px solid black;
+}
+.caption {
+    font-size 13px; color:grey;
+}
+.title {
+    color:darkblue
+}
+.content {
+    font-size: 15px;
+}
+.subtitle {
+    color:rgb(132, 231, 66);   
+}
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&family=Nanum+Pen+Script&family=Yeon+Sung&display=swap');
+
+.caption {
+    font-family: 'Nanum Gothic', sans-serif; font-weight: 700;
+}
+
+.memo {
+    font-size:15px; font-family: 'Nanum Gothic', sans-serif; font-weight:700;
+}
+
+@font-face {
+    font-family: 'Independence_hall';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2102-01@1.0/Independence_hall.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body { 
+    font-family: 'Independence_hall'; 
+}
